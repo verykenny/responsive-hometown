@@ -87,7 +87,11 @@
   }
 
   .weather__today__temp {
-    font-size: 2.3em;
+    font-size: 2.1em;
+  }
+
+  .weather__today__deg {
+    font-size: 1em;
   }
 }
 
@@ -114,7 +118,7 @@
   }
 
   img.weather__today__image {
-    width: 70%;
+    width: 142px;
   }
 
 }
